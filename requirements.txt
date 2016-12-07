@@ -1,3 +1,4 @@
 git+ssh://git@github.com/Reflejo/pysprig.git#egg=sprig
 urwid
 gevent
+python-dateutil
